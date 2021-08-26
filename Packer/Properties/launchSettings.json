@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Packer": {
+      "commandName": "Project",
+      "commandLineArgs": "-u e:\\daren\\Next.eCommerce.Sale"
+    }
+  }
+}
